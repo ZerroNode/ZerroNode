@@ -12,10 +12,8 @@ We envision a world where blockchain technology is seamlessly integrated into ev
 * Collaboration: We believe in the power of teamwork, both within our team and with the broader blockchain community, to achieve common goals.
 * Transparency: We operate with openness and honesty, fostering trust and accountability in all our endeavors.
 
-## What We Do:
-* Deploy Validators: We set up and manage validators that play a crucial role in maintaining blockchain networks.
-* Operate Nodes: Our nodes ensure the smooth functioning and security of blockchain systems.
-* Community Engagement: We actively participate in the blockchain community, sharing knowledge and collaborating on projects.
-
-Join us at Zero Node as we pave the way for a decentralized future, one block at a time.
-
+# Our projects:
+* 0g
+* Warden-protocol
+* Allora
+* BitCanna
