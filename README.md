@@ -13,7 +13,8 @@ We envision a world where blockchain technology is seamlessly integrated into ev
 * Transparency: We operate with openness and honesty, fostering trust and accountability in all our endeavors.
 
 # Our projects:
-* 0g
-* Warden-protocol
-* Allora
-* BitCanna
+* Aligned [[Guide]](https://github.com/ZerroNode/Aligned-guide)
+* 0g [[Guide]](https://github.com/ZerroNode/0g-guide)
+* Warden-protocol [[Guide]](https://github.com/ZerroNode/Warden-protocol)
+* Allora [[Guide]](https://github.com/ZerroNode/Allora)
+* BitCanna [[Guide]](https://github.com/ZerroNode/BitCanna)
