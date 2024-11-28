@@ -16,5 +16,8 @@ We envision a world where blockchain technology is seamlessly integrated into ev
 * Aligned [[Guide]](https://github.com/ZerroNode/Aligned-guide)
 * 0g [[Guide]](https://github.com/ZerroNode/0g-guide)
 * Warden-protocol [[Guide]](https://github.com/ZerroNode/Warden-protocol)
+* Mantra [[Guide]]()
 * Allora [[Guide]](https://github.com/ZerroNode/Allora)
 * BitCanna [[Guide]](https://github.com/ZerroNode/BitCanna)
+* Uptick [[Guide]]()
+* Fuel [[Guide]](https://github.com/ZerroNode/Local-Fuel-Node)
